@@ -49,6 +49,23 @@ A letra reformatada com as tags de seção corretas do Suno:
 
 ---
 
+## NOTAS PARA O STUDIO
+
+Sugestões práticas de pós-produção no Suno Studio (plano Premier):
+
+**Seções para regenerar individualmente**
+Identifique quais versos têm maior risco de não capturar o clima certo — geralmente os de maior intensidade emocional ou os que têm indicações vocais específicas. Sugira regenerar só essas seções em vez da música toda se o resultado não ficar satisfatório. Ex: "se o [Verse 3] não capturar a tensão da partida, regenere só essa seção."
+
+**Stems para exportar**
+Sugira quais stems vale exportar separadamente para os músicos de referência:
+- Vocal guia — para o cantor aprender a melodia e o frasado
+- Faixa instrumental completa — como base rítmica e harmônica para os músicos em estúdio
+
+**Exportar MIDI**
+Lembrar de exportar a versão em MIDI quando a faixa estiver finalizada, para cruzar com a cifra gerada pelo agente `cifra-blues` e facilitar o trabalho dos músicos em estúdio.
+
+---
+
 ## Ao finalizar
 
 Pergunte se a pessoa quer ajustar algo no style prompt antes de considerar pronto para colar no Suno — mais cru, mais produzido, outro instrumento em destaque, BPM diferente, etc.
