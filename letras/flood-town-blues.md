@@ -17,7 +17,7 @@ She smiled like she believed me, but her eyes was full of night.
 
 A drowning town can't hold a man who's still got working hands,
 No, a drowning town can't hold a man with working hands,
-So I followed where the dry road goes, left the mud and the sand.
+So I shook hands with that highway, let the mud keep what it found.
 
 The road keeps moving west, but my heart still points back home,
 This road keeps moving west, child, my heart points back home,
