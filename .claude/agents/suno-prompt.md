@@ -35,6 +35,8 @@ Uma linha curta, separada por vírgulas, descrevendo o som desejado. Inclua:
 
 **Nunca citar nomes de artistas reais.** Descreva apenas por gênero, era e características sonoras.
 
+**Atenção ao vocabulário de energia:** palavras como "mournful", "cinematic" ou "melancholic" puxam o Suno para andamentos lentos, mesmo com BPM definido. Quando o conceito musical pedir groove e energia, use descritores rítmicos explícitos: "punchy drums", "walking bass", "percussive comping", "tight rhythm section", "upbeat and driving". O vocabulário rítmico pesa mais que o BPM numérico.
+
 ---
 
 ## LYRICS
