@@ -11,11 +11,11 @@ ref: flood-town-blues.md
 ## STYLE PROMPT
 
 ```
-postwar blues crossover, R&B soul influence, electric blues, 100 BPM, 
-lead electric guitar with expressive bends and vibrato answering the 
-vocal, rhythm guitar, electric bass, drums with a laid-back groove, 
-raspy weathered storytelling male vocal, warm analog production, 
-slight room reverb, mournful but resilient, cinematic blues feel
+electric blues soul, funky R&B groove, 100 BPM, tight rhythm section 
+with punchy drums and walking bass, rhythm guitar with percussive 
+comping, expressive lead electric guitar with stinging bends answering 
+the vocal, raspy powerful male vocal, upbeat and driving, warm analog 
+production, slight room reverb, energetic and soulful
 ```
 
 ---
